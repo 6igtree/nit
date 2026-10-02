@@ -54,7 +54,7 @@ Say `nit` (or `/nit` in Claude Code) to start. Say `stop nit` to stop.
 
 | Level | What you get |
 | --- | --- |
-| `nit lite` | Replies in plain English. No corrections. |
+| `nit lite` | Replies in your own language, then shows one line of how to say it in English. |
 | `nit full` | Replies in English, one nit per message, and the phrasebook. Default. |
 | `nit immersion` | Also asks you to draft PR descriptions, commit messages, and status updates in English first, then polishes them with you. |
 
