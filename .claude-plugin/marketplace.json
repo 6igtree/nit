@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "nit",
+  "description": "Your agent, now an English-speaking teammate.",
+  "owner": {
+    "name": "6igtree",
+    "url": "https://github.com/6igtree"
+  },
+  "plugins": [
+    {
+      "name": "nit",
+      "description": "Practice real workplace English with your coding agent: natural replies, one gentle rephrase per message, and a phrasebook built from your own work.",
+      "source": "./",
+      "category": "learning"
+    }
+  ]
+}
