@@ -2,7 +2,7 @@
 
 [English](./README.md) | **日本語**
 
-**あなたのエージェントが、英語で話す同僚になります。**
+**エージェントが、英語で話す同僚になる。**
 
 コーディングエージェントとは、もう毎日何時間も話しているはずです。nit は、その時間を英語の練習に変えます。作業のスピードは落としません。
 
@@ -67,7 +67,7 @@ mkdir -p ~/.agents/skills && cp -r /tmp/nit/skills/nit ~/.agents/skills/
 
 ## 関連
 
-[senpai](https://github.com/6igtree/senpai)：コードはエージェントが書き、エンジニアとしての学びはあなたに残します。
+[senpai](https://github.com/6igtree/senpai)：エージェントと書くほど、エンジニアとして成長する。
 
 ## ライセンス
 
