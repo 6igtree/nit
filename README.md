@@ -1,5 +1,7 @@
 # nit 💬
 
+**English** | [日本語](./README.ja.md)
+
 **Your agent, now an English-speaking teammate.**
 
 You already talk to your coding agent for hours every day. nit makes those hours English practice, without slowing down the work.
