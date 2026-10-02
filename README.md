@@ -52,11 +52,16 @@ mkdir -p ~/.agents/skills && cp -r /tmp/nit/skills/nit ~/.agents/skills/
 
 Say `nit` (or `/nit` in Claude Code) to start. Say `stop nit` to stop.
 
-| Level | What you get |
-| --- | --- |
-| `nit lite` | Replies in your own language, then shows one line of how to say it in English. |
-| `nit full` | Replies in English, one nit per message, and the phrasebook. Default. |
-| `nit immersion` | Also asks you to draft PR descriptions, commit messages, and status updates in English first, then polishes them with you. |
+Move from your own language to full English one step at a time:
+
+| Level | Replies | Extra |
+| --- | --- | --- |
+| `nit 1` lite | Your own language | One line of how to say it in English. Default. |
+| `nit 2` bilingual | Plain English | A one-line summary in your language for longer replies. |
+| `nit 3` full | English only | One nit per message. |
+| `nit 4` immersion | English only | You draft PR descriptions, commit messages, and status updates in English first, then polish them together. |
+
+nit remembers your level in `~/.nit/level`. When your messages need fewer nits, it suggests moving up. When things get hard, it suggests stepping back. It never switches on its own.
 
 ## See also
 
