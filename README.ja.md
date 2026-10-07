@@ -67,6 +67,8 @@ mkdir -p ~/.agents/skills && cp -r /tmp/nit/skills/nit ~/.agents/skills/
 
 ## 関連
 
+[nit-band](https://github.com/6igtree/nit-band): Claude Code の mod 版です。送ったプロンプトごとに、会話のログではなく入力欄の上で英語をひとつ直します。
+
 [senpai](https://github.com/6igtree/senpai)：エージェントと書くほど、エンジニアとして成長する。
 
 ## ライセンス

@@ -67,6 +67,8 @@ nit remembers your level in `~/.nit/level`. When your messages need fewer nits, 
 
 ## See also
 
+[nit-band](https://github.com/6igtree/nit-band): the Claude Code mod version. One nit for every prompt you send, shown above the prompt instead of in the transcript.
+
 [senpai](https://github.com/6igtree/senpai): your agent writes the code, and you still learn the engineering.
 
 ## License
